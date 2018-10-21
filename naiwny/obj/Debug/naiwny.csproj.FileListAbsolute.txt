@@ -1,0 +1,28 @@
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\bin\Debug\naiwny.exe.config
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\bin\Debug\naiwny.exe
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\bin\Debug\naiwny.pdb
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\obj\Debug\naiwny.csprojResolveAssemblyReference.cache
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\obj\Debug\naiwny.Form1.resources
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\obj\Debug\naiwny.Properties.Resources.resources
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\obj\Debug\naiwny.csproj.GenerateResource.Cache
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\obj\Debug\naiwny.exe
+c:\users\thamed\documents\visual studio 2015\Projects\naiwny\naiwny\obj\Debug\naiwny.pdb
+C:\Users\Thamed\Desktop\naiwny\naiwny\bin\Debug\naiwny.exe.config
+C:\Users\Thamed\Desktop\naiwny\naiwny\obj\Debug\naiwny.exe
+C:\Users\Thamed\Desktop\naiwny\naiwny\obj\Debug\naiwny.pdb
+C:\Users\Thamed\Desktop\naiwny\naiwny\obj\Debug\naiwny.csprojResolveAssemblyReference.cache
+C:\Users\Thamed\Desktop\naiwny\naiwny\obj\Debug\naiwny.Form1.resources
+C:\Users\Thamed\Desktop\naiwny\naiwny\obj\Debug\naiwny.Properties.Resources.resources
+C:\Users\Thamed\Desktop\naiwny\naiwny\obj\Debug\naiwny.csproj.GenerateResource.Cache
+C:\Users\Thamed\Desktop\naiwny\naiwny\bin\Debug\naiwny.exe
+C:\Users\Thamed\Desktop\naiwny\naiwny\bin\Debug\naiwny.pdb
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\bin\Debug\naiwny.exe.config
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\bin\Debug\naiwny.exe
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\bin\Debug\naiwny.pdb
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\obj\Debug\naiwny.csprojAssemblyReference.cache
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\obj\Debug\naiwny.Form1.resources
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\obj\Debug\naiwny.Properties.Resources.resources
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\obj\Debug\naiwny.csproj.GenerateResource.cache
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\obj\Debug\naiwny.csproj.CoreCompileInputs.cache
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\obj\Debug\naiwny.exe
+C:\Users\ThamedPC\Desktop\naiwny\naiwny\obj\Debug\naiwny.pdb
